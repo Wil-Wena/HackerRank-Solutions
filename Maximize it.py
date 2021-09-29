@@ -1,3 +1,5 @@
+#Maximize it solution
+#Wilson Aballey
 from itertools import product
 from math import pow
 it = list(map(int,input().split()))
