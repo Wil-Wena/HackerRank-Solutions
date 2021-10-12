@@ -9,7 +9,7 @@ import sys
 # Complete the 'reverseArray' function below.
 #
 # The function is expected to return an INTEGER_ARRAY.
-# The function accepts INTEGER_ARRAY a as parameter.
+# The function accepts INTEGER_ARRAY and String_Array a as parameter.
 
  #Slicing method
 def reverseArray(a):
